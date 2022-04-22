@@ -5,7 +5,7 @@
 Python, JavaScript, 그 외 잡다한 언어들로 이것저것을 만들고 있습니다.   
 매크로와 GUI를 좋아하고, 알고리즘에도 관심이 많습니다.   
 ## 만든 것들, 만들고 있는 것들
-[nameDivination](https://github.com/NewbieLeo/nameDivination) | **Python** &#183; 이름 궁합을 봐주는 프로그램 _in development_   
+[nameDivination](https://github.com/NewbieLeo/nameDivination) | **Python** &#183; 이름 궁합 결과를 계산해주는 프로그램 _in development_   
 [MoonTimer](https://github.com/NewbieLeo/MoonTimer) | **HTML, JS** &#183; 문재인 대통령의 잔여 임기 타이머 _completed_   
 [SahmyookLunch](https://github.com/NewbieLeo/SahmyookLunch) | **Python** &#183; 제 모교의 급우들을 위한 급식표 프로그램   _in maintenance_   
 [mvNmix](https://github.com/NewbieLeo/mvNmix) | **Python** &#183; MV, 교차편집 영상을 재생해주는 매크로 프로그램   _in maintenance_   
@@ -19,12 +19,4 @@ Python, JavaScript, 그 외 잡다한 언어들로 이것저것을 만들고 있
 solved.ac 티어: Gold 5 ~~골딱이~~   
 개발 경력: 사실상 전무   
 수상 경력: null   
-키 몸무게: 178.8cm  70.7kg
-```python
->>> from sympy import *
->>> from sympy.stats import *
->>> X = Normal('x', 169.0, 5.8) # Middle 3rd grade men height normal distribution
->>> P(X<=178.8).evalf()
-0.954453027963935
-```
-...대충 이런 게 가능합니다.
+사용 가능한 언어: C, C++, Python(❤️), JavaScript, batch, Java 
