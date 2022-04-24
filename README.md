@@ -17,5 +17,4 @@ Python, JavaScript, 그 외 잡다한 언어들로 이것저것을 만들고 있
 📄 Editor/IDE: Visual Studio Code, ~~Vim~~
 ## 그 외
 solved.ac 티어: Gold V 935   
-사용 가능한 언어: C, C++, Python(❤️), JavaScript, batch, Java   
-이제 뭐 넣지
+사용 가능한 언어: C, C++, Python(❤️), JavaScript, batch, Java, Ruby(?)   
