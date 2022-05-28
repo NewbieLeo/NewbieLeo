@@ -5,7 +5,7 @@
 Python, JavaScript, 그 외 잡다한 언어들로 이것저것을 만들고 있습니다.   
 매크로와 GUI를 좋아하고, 알고리즘에도 관심이 많습니다.   
 ## 만든 것들, 만들고 있는 것들
-[ddayList](https://newbieleo.github.io/ddayList) | **HTML, CSS, JS** &#183; 수행평가 일정 관리 사이트 _in maintenance_ 
+[ddayList](https://newbieleo.github.io/ddayList) | **HTML, CSS, JS** &#183; 수행평가 일정 관리 사이트 _in maintenance_   
 [nameDivination](https://github.com/NewbieLeo/nameDivination) | **Python** &#183; 이름 궁합 결과를 계산해주는 프로그램 _in development_   
 [MoonTimer](https://github.com/NewbieLeo/MoonTimer) | **HTML, JS** &#183; 문재인 대통령의 잔여 임기 타이머 _deprecated_   
 [SahmyookLunch](https://github.com/NewbieLeo/SahmyookLunch) | **Python** &#183; 제 모교의 급우들을 위한 급식표 프로그램   _in maintenance_   
